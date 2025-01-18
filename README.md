@@ -52,4 +52,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1319-unique-number-of-occurrences](https://github.com/mridul1592/LeetCode/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/mridul1592/LeetCode/tree/master/1392-find-the-difference-of-two-arrays) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mridul1592/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mridul1592/LeetCode/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/mridul1592/LeetCode/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->

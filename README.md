@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1146-greatest-common-divisor-of-strings](https://github.com/mridul1592/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/mridul1592/LeetCode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1894-merge-strings-alternately](https://github.com/mridul1592/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/mridul1592/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/mridul1592/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Math
 |  |
@@ -124,10 +125,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/mridul1592/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/mridul1592/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/mridul1592/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2470-removing-stars-from-a-string](https://github.com/mridul1592/LeetCode/tree/master/2470-removing-stars-from-a-string) |
 ## Depth-First Search
 |  |

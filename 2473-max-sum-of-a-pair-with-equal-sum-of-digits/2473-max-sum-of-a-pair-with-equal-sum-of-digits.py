@@ -6,15 +6,10 @@ class Solution:
         for i in nums:
             nSum.append(sum([int(a) for a in list(str(i))]))
 
-        maxSum = 0
+        maxSum = -1
         c = Counter(nSum)
         countFlag = 1
-        for i in c.values():
-            if i > 1:
-                countFlag = 0
-                break
-        if countFlag == 1:
-            return -1
+        
         
         elegSum = []
 

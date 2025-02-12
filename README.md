@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1798-max-number-of-k-sum-pairs](https://github.com/mridul1592/LeetCode/tree/master/1798-max-number-of-k-sum-pairs) |
 | [1833-find-the-highest-altitude](https://github.com/mridul1592/LeetCode/tree/master/1833-find-the-highest-altitude) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/mridul1592/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
+| [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/mridul1592/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 ## Greedy
 |  |
 | ------- |

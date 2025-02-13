@@ -18,7 +18,7 @@ class Solution:
                 elegSum.append(i)
 
         sumDict = dict()
-        print(nSum)
+
         for s in elegSum:
             for i in range(len(nums)):
                 if nSum[i] == s and s not in sumDict:
@@ -31,9 +31,6 @@ class Solution:
                     elif sumDict[s][0] > nums[i] and nums[i] > sumDict[s][1]:
                         sumDict[s][1] = nums[i]
                         
-        print(sumDict)
-        #for i in sumDict:
-        #    sumDict[i].sort(reverse=True)
 
         for i in sumDict:
             maxSum = max(sumDict[i][0] + sumDict[i][1], maxSum)

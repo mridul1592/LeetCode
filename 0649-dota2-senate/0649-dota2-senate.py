@@ -16,7 +16,7 @@ class Solution:
             if R < D:
                 Rq.append(R+n)
             else:
-                Dq.append(R+n)
+                Dq.append(D+n)
         
         if not Rq: 
             return 'Dire'

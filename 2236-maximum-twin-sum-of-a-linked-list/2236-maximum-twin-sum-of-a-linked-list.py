@@ -7,7 +7,6 @@ class Solution:
     def pairSum(self, head: Optional[ListNode]) -> int:
         fh = sh = head
         prev = None
-        curr = head
         while fh and fh.next:
             fh = fh.next.next  # moving twice as fast as sh to find the middle node
             tmp = sh.next # moving one node at a time, assigning to temporary node to swap

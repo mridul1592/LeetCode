@@ -9,8 +9,8 @@ class Solution:
         if not head.next:
             return None
 
-        p = None
-        s = f = head
+        p = None #previous
+        s = f = head # slow pointer, fast pointer
         while f and f.next:
             p = s
             s = s.next
